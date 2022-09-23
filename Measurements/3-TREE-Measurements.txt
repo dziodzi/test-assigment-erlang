@@ -1,0 +1,301 @@
+   
+*************************************TASK 1*************************************
+   
+   
+=-=-=-=-=-=-=-=-=-=-=-=-=TABLES=-=-=-=-=-=-=-=-=-=-=-=-=
+   
+1. AliceBasis: x, AliceBit: 1, BobBasis: +, BobBit: 1
+2. AliceBasis: +, AliceBit: 1, BobBasis: +, BobBit: 1
+3. AliceBasis: +, AliceBit: 0, BobBasis: x, BobBit: 0
+4. AliceBasis: x, AliceBit: 0, BobBasis: +, BobBit: 0
+5. AliceBasis: x, AliceBit: 0, BobBasis: x, BobBit: 1
+6. AliceBasis: +, AliceBit: 1, BobBasis: x, BobBit: 1
+7. AliceBasis: x, AliceBit: 1, BobBasis: +, BobBit: 1
+8. AliceBasis: x, AliceBit: 1, BobBasis: x, BobBit: 0
+9. AliceBasis: +, AliceBit: 1, BobBasis: +, BobBit: 1
+10. AliceBasis: +, AliceBit: 1, BobBasis: x, BobBit: 0
+11. AliceBasis: x, AliceBit: 1, BobBasis: x, BobBit: 0
+12. AliceBasis: x, AliceBit: 0, BobBasis: x, BobBit: 1
+13. AliceBasis: x, AliceBit: 0, BobBasis: +, BobBit: 0
+14. AliceBasis: +, AliceBit: 1, BobBasis: x, BobBit: 1
+15. AliceBasis: +, AliceBit: 1, BobBasis: x, BobBit: 0
+16. AliceBasis: +, AliceBit: 0, BobBasis: +, BobBit: 0
+17. AliceBasis: +, AliceBit: 0, BobBasis: x, BobBit: 1
+18. AliceBasis: +, AliceBit: 1, BobBasis: x, BobBit: 0
+19. AliceBasis: +, AliceBit: 1, BobBasis: x, BobBit: 0
+20. AliceBasis: x, AliceBit: 1, BobBasis: +, BobBit: 0
+21. AliceBasis: x, AliceBit: 1, BobBasis: +, BobBit: 1
+22. AliceBasis: +, AliceBit: 0, BobBasis: +, BobBit: 0
+23. AliceBasis: x, AliceBit: 1, BobBasis: +, BobBit: 1
+24. AliceBasis: +, AliceBit: 0, BobBasis: x, BobBit: 1
+25. AliceBasis: +, AliceBit: 1, BobBasis: x, BobBit: 0
+26. AliceBasis: x, AliceBit: 0, BobBasis: +, BobBit: 0
+27. AliceBasis: x, AliceBit: 0, BobBasis: +, BobBit: 0
+28. AliceBasis: x, AliceBit: 0, BobBasis: x, BobBit: 1
+29. AliceBasis: x, AliceBit: 1, BobBasis: +, BobBit: 1
+30. AliceBasis: x, AliceBit: 1, BobBasis: x, BobBit: 0
+31. AliceBasis: x, AliceBit: 0, BobBasis: +, BobBit: 0
+32. AliceBasis: x, AliceBit: 1, BobBasis: +, BobBit: 1
+33. AliceBasis: +, AliceBit: 0, BobBasis: +, BobBit: 0
+34. AliceBasis: +, AliceBit: 0, BobBasis: +, BobBit: 0
+35. AliceBasis: x, AliceBit: 1, BobBasis: x, BobBit: 0
+36. AliceBasis: +, AliceBit: 0, BobBasis: +, BobBit: 0
+37. AliceBasis: +, AliceBit: 1, BobBasis: x, BobBit: 0
+38. AliceBasis: +, AliceBit: 1, BobBasis: +, BobBit: 1
+39. AliceBasis: x, AliceBit: 1, BobBasis: x, BobBit: 0
+40. AliceBasis: x, AliceBit: 1, BobBasis: +, BobBit: 0
+41. AliceBasis: +, AliceBit: 1, BobBasis: +, BobBit: 1
+42. AliceBasis: x, AliceBit: 0, BobBasis: +, BobBit: 1
+43. AliceBasis: +, AliceBit: 0, BobBasis: x, BobBit: 0
+44. AliceBasis: x, AliceBit: 1, BobBasis: +, BobBit: 1
+45. AliceBasis: +, AliceBit: 0, BobBasis: +, BobBit: 0
+46. AliceBasis: x, AliceBit: 1, BobBasis: x, BobBit: 0
+47. AliceBasis: +, AliceBit: 1, BobBasis: x, BobBit: 0
+48. AliceBasis: +, AliceBit: 1, BobBasis: x, BobBit: 0
+49. AliceBasis: x, AliceBit: 0, BobBasis: x, BobBit: 1
+50. AliceBasis: x, AliceBit: 1, BobBasis: x, BobBit: 0
+51. AliceBasis: x, AliceBit: 1, BobBasis: x, BobBit: 0
+52. AliceBasis: x, AliceBit: 1, BobBasis: x, BobBit: 0
+   
+=-=-=-=-=-=-=-=-=-=-=-=-=MATCHES=-=-=-=-=-=-=-=-=-=-=-=-=
+   
+2 :   basis: +, bit: 1
+9 :   basis: +, bit: 1
+16 :   basis: +, bit: 0
+22 :   basis: +, bit: 0
+33 :   basis: +, bit: 0
+34 :   basis: +, bit: 0
+36 :   basis: +, bit: 0
+38 :   basis: +, bit: 1
+41 :   basis: +, bit: 1
+45 :   basis: +, bit: 0
+   
+=-=-=-=-=-=-=-=-=-=-=-=-=EXTRA TABLES=-=-=-=-=-=-=-=-=-=-=-=-=
+   
+   
+There was not enough values. Extra measurements include:
+   
+52. AliceBasis: x, AliceBit: 1, BobBasis: x, BobBit: 0
+53. AliceBasis: +, AliceBit: 1, BobBasis: x, BobBit: 1
+54. AliceBasis: x, AliceBit: 1, BobBasis: +, BobBit: 1
+55. AliceBasis: +, AliceBit: 0, BobBasis: x, BobBit: 0
+56. AliceBasis: x, AliceBit: 1, BobBasis: +, BobBit: 0
+57. AliceBasis: +, AliceBit: 0, BobBasis: x, BobBit: 1
+58. AliceBasis: x, AliceBit: 1, BobBasis: x, BobBit: 0
+59. AliceBasis: x, AliceBit: 1, BobBasis: +, BobBit: 1
+60. AliceBasis: +, AliceBit: 1, BobBasis: x, BobBit: 1
+61. AliceBasis: x, AliceBit: 1, BobBasis: x, BobBit: 0
+62. AliceBasis: x, AliceBit: 0, BobBasis: x, BobBit: 1
+63. AliceBasis: x, AliceBit: 0, BobBasis: +, BobBit: 0
+64. AliceBasis: x, AliceBit: 1, BobBasis: +, BobBit: 1
+65. AliceBasis: +, AliceBit: 0, BobBasis: +, BobBit: 0
+66. AliceBasis: x, AliceBit: 1, BobBasis: x, BobBit: 0
+67. AliceBasis: x, AliceBit: 0, BobBasis: x, BobBit: 1
+68. AliceBasis: +, AliceBit: 0, BobBasis: x, BobBit: 1
+69. AliceBasis: +, AliceBit: 0, BobBasis: x, BobBit: 0
+70. AliceBasis: +, AliceBit: 1, BobBasis: +, BobBit: 1
+71. AliceBasis: x, AliceBit: 1, BobBasis: x, BobBit: 0
+72. AliceBasis: +, AliceBit: 0, BobBasis: x, BobBit: 1
+73. AliceBasis: +, AliceBit: 0, BobBasis: x, BobBit: 0
+74. AliceBasis: +, AliceBit: 1, BobBasis: x, BobBit: 0
+75. AliceBasis: x, AliceBit: 1, BobBasis: +, BobBit: 0
+76. AliceBasis: +, AliceBit: 1, BobBasis: +, BobBit: 1
+77. AliceBasis: +, AliceBit: 1, BobBasis: +, BobBit: 1
+78. AliceBasis: x, AliceBit: 0, BobBasis: +, BobBit: 1
+79. AliceBasis: +, AliceBit: 0, BobBasis: x, BobBit: 1
+80. AliceBasis: +, AliceBit: 1, BobBasis: +, BobBit: 1
+81. AliceBasis: +, AliceBit: 0, BobBasis: +, BobBit: 0
+82. AliceBasis: +, AliceBit: 0, BobBasis: +, BobBit: 0
+83. AliceBasis: x, AliceBit: 0, BobBasis: x, BobBit: 1
+84. AliceBasis: +, AliceBit: 0, BobBasis: x, BobBit: 1
+85. AliceBasis: x, AliceBit: 0, BobBasis: +, BobBit: 0
+86. AliceBasis: x, AliceBit: 0, BobBasis: +, BobBit: 0
+87. AliceBasis: x, AliceBit: 1, BobBasis: x, BobBit: 0
+88. AliceBasis: x, AliceBit: 0, BobBasis: +, BobBit: 0
+89. AliceBasis: +, AliceBit: 1, BobBasis: +, BobBit: 1
+90. AliceBasis: +, AliceBit: 1, BobBasis: x, BobBit: 0
+91. AliceBasis: +, AliceBit: 1, BobBasis: x, BobBit: 0
+92. AliceBasis: x, AliceBit: 1, BobBasis: x, BobBit: 0
+93. AliceBasis: +, AliceBit: 1, BobBasis: x, BobBit: 0
+94. AliceBasis: +, AliceBit: 1, BobBasis: x, BobBit: 0
+95. AliceBasis: +, AliceBit: 1, BobBasis: +, BobBit: 1
+96. AliceBasis: x, AliceBit: 0, BobBasis: +, BobBit: 1
+97. AliceBasis: x, AliceBit: 0, BobBasis: +, BobBit: 0
+98. AliceBasis: +, AliceBit: 1, BobBasis: x, BobBit: 1
+99. AliceBasis: x, AliceBit: 1, BobBasis: x, BobBit: 0
+100. AliceBasis: x, AliceBit: 0, BobBasis: +, BobBit: 1
+101. AliceBasis: x, AliceBit: 0, BobBasis: +, BobBit: 0
+102. AliceBasis: x, AliceBit: 0, BobBasis: +, BobBit: 1
+103. AliceBasis: +, AliceBit: 1, BobBasis: x, BobBit: 1
+104. AliceBasis: x, AliceBit: 0, BobBasis: +, BobBit: 0
+105. AliceBasis: +, AliceBit: 1, BobBasis: +, BobBit: 1
+   
+=-=-=-=-=-=-=-=-=-=-=-=EXTRA MATCHES=-=-=-=-=-=-=-=-=-=-=-=
+   
+2 :   basis: +, bit: 1
+9 :   basis: +, bit: 1
+16 :   basis: +, bit: 0
+22 :   basis: +, bit: 0
+33 :   basis: +, bit: 0
+34 :   basis: +, bit: 0
+36 :   basis: +, bit: 0
+38 :   basis: +, bit: 1
+41 :   basis: +, bit: 1
+45 :   basis: +, bit: 0
+65 :   basis: +, bit: 0
+70 :   basis: +, bit: 1
+76 :   basis: +, bit: 1
+77 :   basis: +, bit: 1
+80 :   basis: +, bit: 1
+81 :   basis: +, bit: 0
+82 :   basis: +, bit: 0
+89 :   basis: +, bit: 1
+95 :   basis: +, bit: 1
+105 :   basis: +, bit: 1
+   
+=-=-=-=-=-=-=-=-=-=-=-=KEY VALUE=-=-=-=-=-=-=-=-=-=-=-=
+   
+[1, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1]
+   
+=-=-=-=-=-=-=-=-=-=-=LETTERS FROM KEY=-=-=-=-=-=-=-=-=-=-=
+   
+11000 : Y
+00110 : G
+01111 : P
+00111 : H
+   
+*************************************TASK 2*************************************
+   
+   
+=-=-=-=-=-=-=-=-=-=-=-=YOUR WORD=-=-=-=-=-=-=-=-=-=-=-=-=
+   
+Current word: 
+1 : T
+2 : R
+3 : E
+4 : E
+   
+=-=-=-=-=-=-=-=-=-=-=ENCRYPT WORD=-=-=-=-=-=-=-=-=-=-=-=
+   
+Encryption word: 
+01011 : L
+10111 : X
+01011 : L
+00011 : D
+   
+=-=-=-=-=-=-=-=-=-=-=-=BOB'S WORD=-=-=-=-=-=-=-=-=-=-=-=-=
+   
+Bob's word: 
+10011 : T
+10001 : R
+00100 : E
+00100 : E
+   
+*************************************TASK 3*************************************
+   
+   
+=-=-=-=-=-=-=-=-=-=-=-=TABLES=-=-=-=-=-=-=-=-=-=-=-=-=
+   
+1. AliceBasis: x, AliceBit: 0, EvaBasis: x, EvaBit: 1, BobBasis: x, BobBit: 0
+2. AliceBasis: +, AliceBit: 1, EvaBasis: x, EvaBit: 1, BobBasis: +, BobBit: 0
+3. AliceBasis: +, AliceBit: 1, EvaBasis: x, EvaBit: 1, BobBasis: +, BobBit: 1
+4. AliceBasis: +, AliceBit: 1, EvaBasis: +, EvaBit: 1, BobBasis: +, BobBit: 1
+5. AliceBasis: x, AliceBit: 0, EvaBasis: x, EvaBit: 1, BobBasis: +, BobBit: 0
+6. AliceBasis: x, AliceBit: 0, EvaBasis: x, EvaBit: 1, BobBasis: +, BobBit: 1
+7. AliceBasis: +, AliceBit: 1, EvaBasis: +, EvaBit: 1, BobBasis: x, BobBit: 1
+8. AliceBasis: x, AliceBit: 1, EvaBasis: +, EvaBit: 0, BobBasis: +, BobBit: 0
+9. AliceBasis: +, AliceBit: 0, EvaBasis: x, EvaBit: 1, BobBasis: x, BobBit: 0
+10. AliceBasis: +, AliceBit: 0, EvaBasis: x, EvaBit: 0, BobBasis: x, BobBit: 1
+11. AliceBasis: x, AliceBit: 1, EvaBasis: +, EvaBit: 1, BobBasis: x, BobBit: 0
+12. AliceBasis: x, AliceBit: 0, EvaBasis: +, EvaBit: 1, BobBasis: +, BobBit: 1
+13. AliceBasis: x, AliceBit: 0, EvaBasis: +, EvaBit: 1, BobBasis: +, BobBit: 1
+14. AliceBasis: x, AliceBit: 1, EvaBasis: +, EvaBit: 0, BobBasis: x, BobBit: 0
+15. AliceBasis: +, AliceBit: 1, EvaBasis: x, EvaBit: 1, BobBasis: +, BobBit: 1
+16. AliceBasis: x, AliceBit: 0, EvaBasis: x, EvaBit: 1, BobBasis: x, BobBit: 0
+17. AliceBasis: x, AliceBit: 1, EvaBasis: +, EvaBit: 1, BobBasis: x, BobBit: 1
+18. AliceBasis: +, AliceBit: 1, EvaBasis: x, EvaBit: 1, BobBasis: x, BobBit: 0
+19. AliceBasis: +, AliceBit: 1, EvaBasis: x, EvaBit: 1, BobBasis: x, BobBit: 0
+20. AliceBasis: +, AliceBit: 0, EvaBasis: +, EvaBit: 0, BobBasis: +, BobBit: 0
+21. AliceBasis: x, AliceBit: 1, EvaBasis: +, EvaBit: 0, BobBasis: x, BobBit: 1
+22. AliceBasis: x, AliceBit: 1, EvaBasis: x, EvaBit: 0, BobBasis: +, BobBit: 0
+23. AliceBasis: +, AliceBit: 0, EvaBasis: +, EvaBit: 0, BobBasis: x, BobBit: 0
+24. AliceBasis: x, AliceBit: 0, EvaBasis: +, EvaBit: 1, BobBasis: x, BobBit: 0
+25. AliceBasis: +, AliceBit: 0, EvaBasis: +, EvaBit: 0, BobBasis: x, BobBit: 1
+26. AliceBasis: x, AliceBit: 1, EvaBasis: +, EvaBit: 1, BobBasis: +, BobBit: 1
+27. AliceBasis: +, AliceBit: 1, EvaBasis: x, EvaBit: 1, BobBasis: x, BobBit: 0
+28. AliceBasis: +, AliceBit: 1, EvaBasis: x, EvaBit: 1, BobBasis: +, BobBit: 0
+29. AliceBasis: +, AliceBit: 1, EvaBasis: x, EvaBit: 1, BobBasis: +, BobBit: 1
+30. AliceBasis: x, AliceBit: 1, EvaBasis: x, EvaBit: 0, BobBasis: x, BobBit: 1
+31. AliceBasis: x, AliceBit: 0, EvaBasis: +, EvaBit: 1, BobBasis: +, BobBit: 1
+32. AliceBasis: x, AliceBit: 0, EvaBasis: +, EvaBit: 0, BobBasis: x, BobBit: 0
+33. AliceBasis: x, AliceBit: 1, EvaBasis: x, EvaBit: 0, BobBasis: x, BobBit: 1
+34. AliceBasis: x, AliceBit: 1, EvaBasis: +, EvaBit: 1, BobBasis: x, BobBit: 1
+35. AliceBasis: +, AliceBit: 0, EvaBasis: +, EvaBit: 0, BobBasis: +, BobBit: 0
+36. AliceBasis: x, AliceBit: 0, EvaBasis: x, EvaBit: 1, BobBasis: x, BobBit: 0
+37. AliceBasis: +, AliceBit: 0, EvaBasis: +, EvaBit: 0, BobBasis: +, BobBit: 0
+38. AliceBasis: x, AliceBit: 0, EvaBasis: x, EvaBit: 1, BobBasis: x, BobBit: 0
+39. AliceBasis: +, AliceBit: 1, EvaBasis: +, EvaBit: 1, BobBasis: x, BobBit: 0
+40. AliceBasis: +, AliceBit: 0, EvaBasis: x, EvaBit: 1, BobBasis: x, BobBit: 0
+41. AliceBasis: +, AliceBit: 1, EvaBasis: +, EvaBit: 1, BobBasis: x, BobBit: 0
+42. AliceBasis: +, AliceBit: 0, EvaBasis: +, EvaBit: 0, BobBasis: x, BobBit: 0
+43. AliceBasis: +, AliceBit: 0, EvaBasis: x, EvaBit: 0, BobBasis: +, BobBit: 0
+44. AliceBasis: x, AliceBit: 0, EvaBasis: x, EvaBit: 1, BobBasis: x, BobBit: 0
+45. AliceBasis: +, AliceBit: 0, EvaBasis: +, EvaBit: 0, BobBasis: x, BobBit: 1
+46. AliceBasis: +, AliceBit: 0, EvaBasis: +, EvaBit: 0, BobBasis: +, BobBit: 0
+47. AliceBasis: +, AliceBit: 0, EvaBasis: +, EvaBit: 0, BobBasis: +, BobBit: 0
+48. AliceBasis: +, AliceBit: 1, EvaBasis: +, EvaBit: 1, BobBasis: x, BobBit: 1
+49. AliceBasis: +, AliceBit: 0, EvaBasis: x, EvaBit: 1, BobBasis: x, BobBit: 0
+50. AliceBasis: +, AliceBit: 1, EvaBasis: +, EvaBit: 1, BobBasis: +, BobBit: 1
+51. AliceBasis: x, AliceBit: 0, EvaBasis: x, EvaBit: 1, BobBasis: +, BobBit: 0
+52. AliceBasis: x, AliceBit: 1, EvaBasis: x, EvaBit: 0, BobBasis: +, BobBit: 1
+   
+=-=-=-=-=-=-=-=-=-=-=-=MATCHES=-=-=-=-=-=-=-=-=-=-=-=-=
+   
+1 :   AliceBasis: x, AliceBit: 0, BobBasis: x, BobBit:0
+2 :   AliceBasis: +, AliceBit: 1, BobBasis: +, BobBit:0
+3 :   AliceBasis: +, AliceBit: 1, BobBasis: +, BobBit:1
+4 :   AliceBasis: +, AliceBit: 1, BobBasis: +, BobBit:1
+11 :   AliceBasis: x, AliceBit: 1, BobBasis: x, BobBit:0
+14 :   AliceBasis: x, AliceBit: 1, BobBasis: x, BobBit:0
+15 :   AliceBasis: +, AliceBit: 1, BobBasis: +, BobBit:1
+16 :   AliceBasis: x, AliceBit: 0, BobBasis: x, BobBit:0
+17 :   AliceBasis: x, AliceBit: 1, BobBasis: x, BobBit:1
+20 :   AliceBasis: +, AliceBit: 0, BobBasis: +, BobBit:0
+21 :   AliceBasis: x, AliceBit: 1, BobBasis: x, BobBit:1
+24 :   AliceBasis: x, AliceBit: 0, BobBasis: x, BobBit:0
+28 :   AliceBasis: +, AliceBit: 1, BobBasis: +, BobBit:0
+29 :   AliceBasis: +, AliceBit: 1, BobBasis: +, BobBit:1
+30 :   AliceBasis: x, AliceBit: 1, BobBasis: x, BobBit:1
+32 :   AliceBasis: x, AliceBit: 0, BobBasis: x, BobBit:0
+33 :   AliceBasis: x, AliceBit: 1, BobBasis: x, BobBit:1
+34 :   AliceBasis: x, AliceBit: 1, BobBasis: x, BobBit:1
+35 :   AliceBasis: +, AliceBit: 0, BobBasis: +, BobBit:0
+36 :   AliceBasis: x, AliceBit: 0, BobBasis: x, BobBit:0
+37 :   AliceBasis: +, AliceBit: 0, BobBasis: +, BobBit:0
+38 :   AliceBasis: x, AliceBit: 0, BobBasis: x, BobBit:0
+43 :   AliceBasis: +, AliceBit: 0, BobBasis: +, BobBit:0
+44 :   AliceBasis: x, AliceBit: 0, BobBasis: x, BobBit:0
+46 :   AliceBasis: +, AliceBit: 0, BobBasis: +, BobBit:0
+47 :   AliceBasis: +, AliceBit: 0, BobBasis: +, BobBit:0
+50 :   AliceBasis: +, AliceBit: 1, BobBasis: +, BobBit:1
+   
+=-=-=-=-=-=-=-=-=-=-=-=NOT EQUAL=-=-=-=-=-=-=-=-=-=-=-=-=
+   
+1 :   AliceBasis: x, AliceBit: 0, BobBasis: x, BobBit:0
+2 :   AliceBasis: +, AliceBit: 1, BobBasis: +, BobBit:0
+16 :   AliceBasis: x, AliceBit: 0, BobBasis: x, BobBit:0
+17 :   AliceBasis: x, AliceBit: 1, BobBasis: x, BobBit:1
+21 :   AliceBasis: x, AliceBit: 1, BobBasis: x, BobBit:1
+24 :   AliceBasis: x, AliceBit: 0, BobBasis: x, BobBit:0
+28 :   AliceBasis: +, AliceBit: 1, BobBasis: +, BobBit:0
+30 :   AliceBasis: x, AliceBit: 1, BobBasis: x, BobBit:1
+32 :   AliceBasis: x, AliceBit: 0, BobBasis: x, BobBit:0
+33 :   AliceBasis: x, AliceBit: 1, BobBasis: x, BobBit:1
+34 :   AliceBasis: x, AliceBit: 1, BobBasis: x, BobBit:1
+36 :   AliceBasis: x, AliceBit: 0, BobBasis: x, BobBit:0
+38 :   AliceBasis: x, AliceBit: 0, BobBasis: x, BobBit:0
+44 :   AliceBasis: x, AliceBit: 0, BobBasis: x, BobBit:0
+   
+=-=-=-=-=-=-=-=-=-=-=-=MISTAKE CHANCE=-=-=-=-=-=-=-=-=-=-=-=-=
+   
+0.5185185185185185
