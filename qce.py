@@ -3,7 +3,7 @@ from pathlib import Path
 import os
 
 #SETUP
-os.chdir(Path.home() + "\\Measurements")
+os.chdir(Path.home() / 'Measurements')
 
 fin = open("0-SETUP\\Setup.txt", "r")
 howManyTimes = 0
@@ -19,6 +19,7 @@ for k in range(howManyTimes):
     word = words[k]
     while True:
         file = str(k + 1) + "-" + word[0] + word[1] + word[2] + word[3] + '-Measurements.txt'
+        fout = open(file, "w")
 
         flag = 0
 
