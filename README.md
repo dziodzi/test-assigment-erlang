@@ -8,7 +8,14 @@
 
 <a href="https://ibb.co/4JDdThw"><img src="https://i.ibb.co/KmQwqTc/Rules.jpg" alt="Rules" border="0"></a>
 
-## Example of how the program works
+## Tasks to be solved when performing the work
++ Study of the principles of quantum communication
++ Creating an encrypted message
++ Interceptor detection
+
+### Example of how the program works
+
+## Tables
 
 <a href="https://ibb.co/WgfwRRS"><img src="https://i.ibb.co/18T544H/5-06-page-0003.jpg" alt="5-06-page-0003" border="0"></a>
 <a href="https://ibb.co/5vKxJ5c"><img src="https://i.ibb.co/TRWqNHh/5-06-page-0004.jpg" alt="5-06-page-0004" border="0"></a>
