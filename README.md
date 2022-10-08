@@ -4,6 +4,10 @@
 
 *Alice and Bob are fictional characters commonly used as placeholders in discussions about cryptographic systems and protocols and in other scientific and engineering literature where there are several participants in a thought experiment. Alice is the source of the transmitted message, and Bob is the receiving party. Eva is also present in the experiment, which acts as a signal interceptor.*
 
+## Reference material
+
+<a href="https://ibb.co/4JDdThw"><img src="https://i.ibb.co/KmQwqTc/Rules.jpg" alt="Rules" border="0"></a>
+
 ## Example of how the program works
 
 + Task 1: A key was received [0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0], which, when translated into alphabetic format, has the form DQBA.
