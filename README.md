@@ -1,4 +1,4 @@
-# quantum-encryption-emulator
+# Quantum Encryption Emulator
 
 ## General information
 
